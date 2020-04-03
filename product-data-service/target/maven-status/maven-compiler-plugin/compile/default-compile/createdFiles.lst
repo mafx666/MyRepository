@@ -1,0 +1,4 @@
+com\mafx\controller\ProductControler.class
+com\mafx\entity\Product.class
+com\mafx\ProductDataServiceApplication.class
+com\mafx\service\ProductService.class

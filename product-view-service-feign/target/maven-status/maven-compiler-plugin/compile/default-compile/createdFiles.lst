@@ -1,0 +1,5 @@
+com\mafx\entity\Product.class
+com\mafx\ProductViewServiceFeignApplication.class
+com\mafx\controller\ProductController.class
+com\mafx\feign\ProductFeignClient.class
+com\mafx\service\ProductService.class
